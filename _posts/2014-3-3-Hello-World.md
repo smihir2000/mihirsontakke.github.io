@@ -6,6 +6,6 @@ published: true
 ## **This is created by Mihir.**
 
 ### Blog 1 
-> We loved with a love that was more than love
+> We loved with a love that was more than love.
 
 
